@@ -1,0 +1,110 @@
+#class;type;name;cost
+Golden;COIN;Dollar;100
+Silver;COIN;Cent;1
+Golden;SWORD;Sablya;500
+Golden;SWORD;Knife;600
+Golden;SWORD;Ax;100
+Silver;SWORD;Ax;500
+Golden;SWORD;Sword;1200
+Silver;SWORD;Sword;700
+Silver;BOW;Gun;600
+Silver;BOW;Gun;650
+Golden;BOW;Gun;600
+Golden;BOW;Small bow;1000
+Golden;BOW;Long bow;1500
+Golden;GEMS;Arkenstone;100000
+Silver;GEMS;Amethyst;120
+Silver;GEMS;Diamond;800
+Silver;GEMS;Garnet;100
+Silver;GEMS;Emerald;600
+Silver;GEMS;Ruby;200
+Silver;GEMS;Sapphire;400
+Golden;GEMS;Flawless Amethyst;180
+Golden;GEMS;Flawless Diamond;100
+Golden;GEMS;Flawless Garnet;150
+Golden;GEMS;Flawless Emerald;750
+Golden;GEMS;Flawless Ruby;350
+Golden;GEMS;Flawless Sapphire;500
+Golden;GEMS;Amethyst;200
+Golden;GEMS;Amethyst;200
+#for Elves
+Silver;ARMOR;Elven Armor;1250
+Silver;ARMOR;Elven Armor;250
+Silver;ARMOR;Elven Gauntlets;250
+Silver;ARMOR;Elven Helmet;600
+Golden;ARMOR;Elven Armor;1500
+Golden;ARMOR;Elven Armor;500
+Golden;ARMOR;Elven Gauntlets;500
+Golden;ARMOR;Elven Helmet;900
+Silver;SWORD;Elven Dagger;95
+Silver;SWORD;Elven Sword;235
+Silver;SWORD;Elven War Axe;280
+Silver;SWORD;Elven Mace;330
+Silver;SWORD;Elven Greatsword;470
+Silver;SWORD;Elven Battleaxe;520
+Silver;SWORD;Elven Warhammer;565
+Silver;BOW;Elven Bow;120
+Silver;ARROW;Elven Arrow;5
+Golden;SWORD;Elven Dagger;195
+Golden;SWORD;Elven Sword;335
+Golden;SWORD;Elven War Axe;380
+Golden;SWORD;Elven Mace;430
+Golden;SWORD;Elven Greatsword;570
+Golden;SWORD;Elven Battleaxe;620
+Golden;SWORD;Elven Warhammer;765
+Golden;BOW;Elven Bow;220
+Golden;ARROW;Elven Arrow;10
+#for orcs
+Silver;ARMOR;Orc Armor;1250
+Silver;ARMOR;Orc Armor;250
+Silver;ARMOR;Orc Gauntlets;250
+Silver;ARMOR;Orc Helmet;600
+Golden;ARMOR;Orc Armor;1500
+Golden;ARMOR;Orc Armor;500
+Golden;ARMOR;Orc Gauntlets;500
+Golden;ARMOR;Orc Helmet;900
+Silver;SWORD;Orc Dagger;95
+Silver;SWORD;Orc Sword;235
+Silver;SWORD;Orc War Axe;280
+Silver;SWORD;Orc Mace;330
+Silver;SWORD;Orc Greatsword;470
+Silver;SWORD;Orc Battleaxe;520
+Silver;SWORD;Orc Warhammer;565
+Silver;BOW;Orc Bow;120
+Silver;ARROW;Orc Arrow;5
+Golden;SWORD;Orc Dagger;195
+Golden;SWORD;Orc Sword;335
+Golden;SWORD;Orc War Axe;380
+Golden;SWORD;Orc Mace;430
+Golden;SWORD;Orc Greatsword;570
+Golden;SWORD;Orc Battleaxe;620
+Golden;SWORD;Orc Warhammer;765
+Golden;BOW;Orc Bow;220
+Golden;ARROW;Orc Arrow;10
+#for dwarfs
+Silver;ARMOR;Dwarf Armor;1250
+Silver;ARMOR;Dwarf Armor;250
+Silver;ARMOR;Dwarf Gauntlets;250
+Silver;ARMOR;Dwarf Helmet;600
+Golden;ARMOR;Dwarf Armor;1500
+Golden;ARMOR;Dwarf Armor;500
+Golden;ARMOR;Dwarf Gauntlets;500
+Golden;ARMOR;Dwarf Helmet;900
+Silver;SWORD;Dwarf Dagger;95
+Silver;SWORD;Dwarf Sword;235
+Silver;SWORD;Dwarf War Axe;280
+Silver;SWORD;Dwarf Mace;330
+Silver;SWORD;Dwarf Greatsword;470
+Silver;SWORD;Dwarf Battleaxe;520
+Silver;SWORD;Dwarf Warhammer;565
+Silver;BOW;Dwarf Bow;120
+Silver;ARROW;Dwarf Arrow;5
+Golden;SWORD;Dwarf Dagger;195
+Golden;SWORD;Dwarf Sword;335
+Golden;SWORD;Dwarf War Axe;380
+Golden;SWORD;Dwarf Mace;430
+Golden;SWORD;Dwarf Greatsword;570
+Golden;SWORD;Dwarf Battleaxe;620
+Golden;SWORD;Dwarf Warhammer;765
+Golden;BOW;Dwarf Bow;220
+Golden;ARROW;Dwarf Arrow;10

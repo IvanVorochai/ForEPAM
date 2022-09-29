@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student id="1">
+        <surname>Василевс</surname>
+        <firstName>Ivan</firstName>
+        <additionalName>Ivanovich</additionalName>
+        <birthday>01.01.1996</birthday>
+        <studentCase>моб. тел. +375291112233. Адрес: г. Гомель</studentCase>
+    </student>
+    <student id="2">
+        <surname>Petrov</surname>
+        <firstName>Petr</firstName>
+        <additionalName>Petrovich</additionalName>
+        <birthday>02.02.1996</birthday>
+        <studentCase>моб. тел. +375299992233. Адрес: г. Минск</studentCase>
+    </student>
+    <student id="3">
+        <surname>Василевс</surname>
+        <firstName>Василий</firstName>
+        <additionalName>Васильевич</additionalName>
+        <birthday>03.03.1996</birthday>
+        <studentCase>моб. тел. +375294442233. Адрес: г. Гродно</studentCase>
+    </student>
+    <student id="4">
+        <surname>1</surname>
+        <firstName>1</firstName>
+        <additionalName>1</additionalName>
+        <birthday>1</birthday>
+        <studentCase>1</studentCase>
+    </student>
+    <student id="5">
+        <surname>600</surname>
+        <firstName>200</firstName>
+        <additionalName>500</additionalName>
+        <birthday>2</birthday>
+        <studentCase>2</studentCase>
+    </student>
+    <student id="6">
+        <surname>3</surname>
+        <firstName>3</firstName>
+        <additionalName>3</additionalName>
+        <birthday>3</birthday>
+        <studentCase>3</studentCase>
+    </student>
+    <student id="7">
+        <surname>10</surname>
+        <firstName>10</firstName>
+        <additionalName>10</additionalName>
+        <birthday>10</birthday>
+        <studentCase>10</studentCase>
+    </student>
+</students>
